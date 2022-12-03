@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Akademnashr"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Morphcode"
+	}
+}
